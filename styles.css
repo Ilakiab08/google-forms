@@ -3,6 +3,7 @@ body{
 	font-family: Roboto,Sans-serif;
 }
 .form{
+   
 	height: 1100px;
 	width: 600px;
 	margin: auto;
@@ -12,6 +13,7 @@ font-size: 13px;
 color: red;
 }
 .title{
+	background-image: url(file:///C:/Users/tamiz/OneDrive/Desktop/kodehode/google-forms/wp1867908.webp);
 	height: 150px;
 	width: 600px;
 	background-color: #FDFEFE;
@@ -33,17 +35,15 @@ color: red;
 	padding-bottom: 25px;
 	font-size: 15px;
 }
-.input{
-	padding-top: 25px;
-	padding-left: 25px;
-}
+
 .enter input{
 	width: 300px;
 	border: 5px;
 	outline: 0;
 	border-bottom: 1.5px solid #DCD7D7;
 	font-size: 15px;
-}
+	margin:5px;
+}*/
 .btn{
 	height: 36px;
 	width: 100px;
